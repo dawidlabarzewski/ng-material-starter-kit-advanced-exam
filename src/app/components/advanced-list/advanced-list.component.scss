@@ -1,0 +1,27 @@
+.product {
+  height: auto !important;
+  display: flex;
+}
+.product-image-block {
+  width: 150px;
+}
+.product-image {
+  width: 100%;
+}
+.product-details {
+  flex: 1;
+  padding-left: 20px;
+}
+
+.filters {
+  display: flex !important;
+  flex-direction: row !important;;
+}
+
+.filters-category {
+  width: 50%;
+}
+
+.filters-sort {
+  margin-left: auto !important;;
+}
